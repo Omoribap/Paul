@@ -1,0 +1,41 @@
+<style>
+     body{
+background-color: blue;
+    }
+h1{
+    background-color: brown;
+    color: #ffffff;i
+    padding:10px 0;
+    text-align: center;
+}
+h3{
+    background-color: gold;
+    color:#ffffff;
+    padding: 20px 0; 
+    text-align: center;
+}
+a href{
+    background-color: crimson;
+    border-color: red;
+    color: #ffffff;
+    padding: 20px 0;
+}
+
+h2{
+    background-color: darkgreen;
+    color: #ffffff;
+    padding: 10px 0;
+    text-align: center; 
+}
+a{
+    background-color: darkred;
+    padding: 10px 20px;
+    border-radius: 10px;
+    font-weight: bold;
+    color: #ffffff;
+    text-decoration: solid;
+}
+h2{
+    text-align: center;
+}
+</style>
